@@ -1,2 +1,3 @@
-# Small-Projects
+# Small Projects
 Ideas for short projects
+
